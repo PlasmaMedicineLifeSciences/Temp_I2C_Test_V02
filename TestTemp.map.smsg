@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at I2C_TC74_Read-V03.v(44): always construct contains both blocking and non-blocking assignments File: C:/Shruti/Generator/FPGA software/Verilog files/I2C_TC74_Read-V03.v Line: 44
